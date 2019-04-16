@@ -32,5 +32,5 @@ This is a basic image stitching program written in Python3. Most implementations
 ![right.gif](https://github.com/kushalmehta13/Image-stitcher/blob/master/Right.gif)
 
 #### Result
-
+![result.png](https://github.com/kushalmehta13/Image-stitcher/blob/master/Stitched_image.png)
 
