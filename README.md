@@ -22,4 +22,15 @@ This is a basic image stitching program written in Python3. Most implementations
 10. Append the other image (Right image) to this translated image.
 11. The result is the stitched image
 
-The following illustrates the images chosen and their harris features and putative points.
+#### The following illustrates the images chosen and their harris features and putative points and the final result.
+
+##### Left Image
+
+![left.gif](https://github.com/kushalmehta13/Image-stitcher/blob/master/left.gif)
+
+##### Right Image
+![right.gif](https://github.com/kushalmehta13/Image-stitcher/blob/master/Right.gif)
+
+#### Result
+
+
